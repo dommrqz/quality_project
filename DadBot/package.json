@@ -1,0 +1,11 @@
+{
+    "name": "DadBot",
+    "version": "1.0.0",
+    "description": "A specialist in dad jokes.",
+    "main": "bot.js",
+    "author": "Polity Team",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.2.1"
+    }
+}
